@@ -4,7 +4,7 @@ body {
     justify-content: center;
     justify-self: center;
     background-size: 50%;
-    background-image: url(media/newpeep.png);
+    background-image: url(media/pruppa.png);
     background-repeat: repeat;
 }
 
@@ -24,4 +24,24 @@ img {
 .banner {
     border: solid #6D28D9 10px;
     border-radius: 20px;
+}
+
+@font-face {
+    font-family: antipasto;
+    src: url(fonts/Ubuntu-Title.ttf);
+}
+
+h1 {
+    font-family: antipasto;
+}
+
+.textbody {
+    background: black;
+    margin-left: 50vh;
+    margin-right: 50vh;
+    margin-top: 5vh;
+    border: solid #6D28D9 10px;
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
