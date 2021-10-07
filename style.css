@@ -6,12 +6,19 @@ body {
 }
 
 img {
-    border: solid #6D28D9 20px;
+    border: solid #6D28D9 10px;
     border-radius: 20px;
-    max-width: 50%;
+    border-width: 20px;
+    max-width: 75%;
+    margin-top: 5vh;;
 }
 
 .container {
     display: flex;
     flex-direction: column;
+}
+
+.banner {
+    border: solid #6D28D9 10px;
+    border-radius: 20px;
 }
