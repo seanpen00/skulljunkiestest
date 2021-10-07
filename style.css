@@ -6,8 +6,8 @@ body {
 }
 
 img {
-    width: 100vh;
-    border: solid #6D28D9 10px;
+    border: solid #6D28D9 20px;
+    border-radius: 20px;
 }
 
 .container {
