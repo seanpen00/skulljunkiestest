@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/skulljunkiestest/build/static/css/main.0c6ac666.chunk.css",
+    "main.js": "/skulljunkiestest/build/static/js/main.9faa7c43.chunk.js",
+    "main.js.map": "/skulljunkiestest/build/static/js/main.9faa7c43.chunk.js.map",
+    "runtime-main.js": "/skulljunkiestest/build/static/js/runtime-main.932795ff.js",
+    "runtime-main.js.map": "/skulljunkiestest/build/static/js/runtime-main.932795ff.js.map",
+    "static/js/2.a982c525.chunk.js": "/skulljunkiestest/build/static/js/2.a982c525.chunk.js",
+    "static/js/2.a982c525.chunk.js.map": "/skulljunkiestest/build/static/js/2.a982c525.chunk.js.map",
+    "static/js/3.543a4054.chunk.js": "/skulljunkiestest/build/static/js/3.543a4054.chunk.js",
+    "static/js/3.543a4054.chunk.js.map": "/skulljunkiestest/build/static/js/3.543a4054.chunk.js.map",
+    "index.html": "/skulljunkiestest/build/index.html",
+    "static/css/main.0c6ac666.chunk.css.map": "/skulljunkiestest/build/static/css/main.0c6ac666.chunk.css.map",
+    "static/js/2.a982c525.chunk.js.LICENSE.txt": "/skulljunkiestest/build/static/js/2.a982c525.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/skulljunkiestest/build/static/media/NanumPenScript-Regular.9dbef110.ttf",
+    "static/media/logo.dabf7636.png": "/skulljunkiestest/build/static/media/logo.dabf7636.png",
+    "static/media/question-mark animated.c34f19c6.gif": "/skulljunkiestest/build/static/media/question-mark animated.c34f19c6.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.932795ff.js",
+    "static/js/2.a982c525.chunk.js",
+    "static/css/main.0c6ac666.chunk.css",
+    "static/js/main.9faa7c43.chunk.js"
+  ]
+}
