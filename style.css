@@ -8,18 +8,19 @@ body {
     display: flex;
     background-color: rgb(0, 0, 0);
     justify-content: center;
-    /* background-image: url("banner.png") */+
+    background-image: url("/media/eeffe.png");
+    background-size: 50%;
 }
 
 @font-face {
     font-family: Spacepatrol;
-    src: url(/Spacepatrol.ttf);
+    src: url(/fonts/Highman.ttf);
 }
 
 
 /* Fonts */
 .bigtext{
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Spacepatrol;
     text-align: center;
     border: 10px rgb(0, 0, 0) solid;
     color: black;
@@ -39,4 +40,18 @@ body {
     height: 300px;
     width: 300px;
     margin: 3px;
+}
+
+a:link {
+    text-decoration: none;
+    color: #7C3AED;
+}
+a:visited {
+    color: #7C3AED;
+}
+a:hover {
+    color: white;
+}
+a:active {
+    color: red;
 }
