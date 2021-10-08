@@ -8,8 +8,8 @@ body {
     display: flex;
     background-color: rgb(0, 0, 0);
     justify-content: center;
-    background-image: url("/media/eeffe.png");
-    background-size: 100%;
+    background-image: url("/media/beebo.png");
+    background-size: 50%;
 }
 
 @font-face {
