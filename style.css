@@ -15,6 +15,7 @@ button {
 
 button {
     transition-duration: .4s;
+    max-width: 47px;
   }
 
 button:hover {
