@@ -14,7 +14,7 @@ body {
 
 @font-face {
     font-family: Spacepatrol;
-    src: url(/fonts/Highman.ttf) format('truetype');
+    src: url("/fonts/Highman.ttf") format('truetype');
 }
 
 
