@@ -13,14 +13,14 @@ body {
 }
 
 @font-face {
-    font-family: Spacepatrol;
+    font-family: "Spacepatrol";
     src: url("/fonts/Highman.ttf") format('truetype');
 }
 
 
 /* Fonts */
 .bigtext{
-    font-family: Spacepatrol;
+    font-family: "Spacepatrol";
     text-align: center;
     border: 10px rgb(0, 0, 0) solid;
     color: black;
