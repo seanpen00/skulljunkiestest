@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
 .container {
     display: flex;
     justify-content: center;
@@ -13,6 +14,7 @@ body {
 }
 
 @font-face {
+    
     font-family: "Spacepatrol";
     src: local("../Highman.ttf") format("truetype");
 }
@@ -20,7 +22,7 @@ body {
 
 /* Fonts */
 .bigtext{
-    font-family: "Spacepatrol";
+    font-family: 'Staatliches', cursive;
     text-align: center;
     border: 10px rgb(0, 0, 0) solid;
     color: black;
