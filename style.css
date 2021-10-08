@@ -4,6 +4,24 @@
     justify-content: center;
 }
 
+button {
+    background-color: black;
+    color: #7C3AED;
+    font-family: 'Staatliches', cursive;
+    font-size: 100px;
+    border-color: #7C3AED;
+    border-width: 0px;
+}
+
+button {
+    transition-duration: .4s;
+  }
+
+button:hover {
+    background-color: white;
+    color: #7C3AED;
+}
+
 body {
     flex-direction: column;
     display: flex;
@@ -46,6 +64,7 @@ a:visited {
 }
 a:hover {
     color: white;
+    transition-duration: .2s;
 }
 a:active {
     color: red;
