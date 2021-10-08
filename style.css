@@ -13,13 +13,6 @@ body {
     background-size: 50%;
 }
 
-@font-face {
-    
-    font-family: "Spacepatrol";
-    src: local("../Highman.ttf") format("truetype");
-}
-
-
 /* Fonts */
 .bigtext{
     font-family: 'Staatliches', cursive;
